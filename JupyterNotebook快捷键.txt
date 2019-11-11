@@ -1,0 +1,4 @@
+运行：shift + enter
+删除cell: dd
+在下面生成一个cell: b
+删除运行结果：Esc+r+y
